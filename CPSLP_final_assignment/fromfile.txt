@@ -1,0 +1,3 @@
+python cap.
+I am a {handsome} man, a useful person
+yellow handsome man: me!
